@@ -1,0 +1,136 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\VS\\repos\\CORE\\UltimateHelloWorldApp\\UltimateHelloWorld\\UltimateHelloWorld.csproj": {}
+  },
+  "projects": {
+    "E:\\VS\\repos\\CORE\\UltimateHelloWorldApp\\HelloWorldHelper\\HelloWorldLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\VS\\repos\\CORE\\UltimateHelloWorldApp\\HelloWorldHelper\\HelloWorldLibrary.csproj",
+        "projectName": "HelloWorldLibrary",
+        "projectPath": "E:\\VS\\repos\\CORE\\UltimateHelloWorldApp\\HelloWorldHelper\\HelloWorldLibrary.csproj",
+        "packagesPath": "C:\\Users\\Aayus\\.nuget\\packages\\",
+        "outputPath": "E:\\VS\\repos\\CORE\\UltimateHelloWorldApp\\HelloWorldHelper\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Aayus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.305\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\VS\\repos\\CORE\\UltimateHelloWorldApp\\UltimateHelloWorld\\UltimateHelloWorld.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\VS\\repos\\CORE\\UltimateHelloWorldApp\\UltimateHelloWorld\\UltimateHelloWorld.csproj",
+        "projectName": "UltimateHelloWorld",
+        "projectPath": "E:\\VS\\repos\\CORE\\UltimateHelloWorldApp\\UltimateHelloWorld\\UltimateHelloWorld.csproj",
+        "packagesPath": "C:\\Users\\Aayus\\.nuget\\packages\\",
+        "outputPath": "E:\\VS\\repos\\CORE\\UltimateHelloWorldApp\\UltimateHelloWorld\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Aayus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "E:\\VS\\repos\\CORE\\UltimateHelloWorldApp\\HelloWorldHelper\\HelloWorldLibrary.csproj": {
+                "projectPath": "E:\\VS\\repos\\CORE\\UltimateHelloWorldApp\\HelloWorldHelper\\HelloWorldLibrary.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.305\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+E:\VS\repos\CORE\UltimateHelloWorldApp\HelloWorldHelper\bin\Debug\net6.0\CustomText.json
+E:\VS\repos\CORE\UltimateHelloWorldApp\HelloWorldHelper\bin\Debug\net6.0\HelloWorldLibrary.deps.json
+E:\VS\repos\CORE\UltimateHelloWorldApp\HelloWorldHelper\bin\Debug\net6.0\HelloWorldLibrary.dll
+E:\VS\repos\CORE\UltimateHelloWorldApp\HelloWorldHelper\bin\Debug\net6.0\HelloWorldLibrary.pdb
+E:\VS\repos\CORE\UltimateHelloWorldApp\HelloWorldHelper\obj\Debug\net6.0\HelloWorldLibrary.csproj.AssemblyReference.cache
+E:\VS\repos\CORE\UltimateHelloWorldApp\HelloWorldHelper\obj\Debug\net6.0\HelloWorldLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS\repos\CORE\UltimateHelloWorldApp\HelloWorldHelper\obj\Debug\net6.0\HelloWorldLibrary.AssemblyInfoInputs.cache
+E:\VS\repos\CORE\UltimateHelloWorldApp\HelloWorldHelper\obj\Debug\net6.0\HelloWorldLibrary.AssemblyInfo.cs
+E:\VS\repos\CORE\UltimateHelloWorldApp\HelloWorldHelper\obj\Debug\net6.0\HelloWorldLibrary.csproj.CoreCompileInputs.cache
+E:\VS\repos\CORE\UltimateHelloWorldApp\HelloWorldHelper\obj\Debug\net6.0\HelloWorldLibrary.dll
+E:\VS\repos\CORE\UltimateHelloWorldApp\HelloWorldHelper\obj\Debug\net6.0\refint\HelloWorldLibrary.dll
+E:\VS\repos\CORE\UltimateHelloWorldApp\HelloWorldHelper\obj\Debug\net6.0\HelloWorldLibrary.pdb
+E:\VS\repos\CORE\UltimateHelloWorldApp\HelloWorldHelper\obj\Debug\net6.0\ref\HelloWorldLibrary.dll
